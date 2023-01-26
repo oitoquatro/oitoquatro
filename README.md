@@ -1,7 +1,7 @@
 ## Olá! eu sou o Paulo Junior.  
 
 - 🔭 Atualmente trabalho como autônomo na área moveleira.
-- 🌱 Estudo Javascript, React, Nodejs, Java, database, etc...
+- 🌱 Estudo Javascript, React, Angular, Nodejs, Java, database, etc...
 - 🤔 Estou procurando meu primeiro emprego na área da programação.
 - 📫 Como me achar: Wattsapp(47)984395141, paulojpjunior@gmail.com
   ##
